@@ -1,6 +1,6 @@
 # Late Carboniferous - Early Permian Paleomagnetic database
-###-Daniel Pastor-Galán-
-###*Frontier Research Institute for Interdisciplinary Sciences, Tohoku University, Sendai, Japan*
+### -Daniel Pastor-Galán-
+### *Frontier Research Institute for Interdisciplinary Sciences, Tohoku University, Sendai, Japan*
 
 This repository contains a database with Late Carboniferous and Early Permian palepoles from Europe and North America.
 
