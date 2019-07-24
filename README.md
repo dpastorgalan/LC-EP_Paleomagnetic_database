@@ -2,6 +2,10 @@
 ### Daniel Pastor-Galán
 ##### *Frontier Research Institute for Interdisciplinary Sciences, Tohoku University, Sendai, Japan*
 
+If you want to use this dataset for one of your papers please, cite it in the following DOI
+
+[![DOI](https://zenodo.org/badge/198549674.svg)](https://zenodo.org/badge/latestdoi/198549674)
+
 This repository contains a database with Late Carboniferous and Early Permian palepoles from Europe and North America.
 
 ## 1 Rationale
